@@ -1,1 +1,3 @@
-<a href="https://lernek.com" align="center">Lernek</a>
+<div align="center">
+  <a href="https://lernek.com">https://lernek.com</a>
+</div>
